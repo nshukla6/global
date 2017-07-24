@@ -1,4 +1,4 @@
-var name='nitin';
+var name='nitin shukla';
 function logPerson(){
     console.log(name);
 }
